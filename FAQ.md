@@ -13,7 +13,12 @@ Well, there's a lot to list, but the basic stuff are:
 - Access to various basic electronics components (resistors, capacitors, fasteners, sensors etc.)
 - Many events, especially the beginner 101 courses and novice 102 courses
 - Year run projects, led by @Ryusei for IPRL and @Martin for SSL, (dm them for more info!)
+
+## When are you open?
+We're open whenever the department is open (7am - midnight). However, committee members are usually there somewhere from 10am - 6pm (maybe even later during deadline weeks)
 ___
+# Lab Access
+
 ## How do I join ICRS?
 You just need to buy the membership [here](https://www.imperialcollegeunion.org/shop/csp/robotics/robotics-membership-24-25) and complete the induction in discord!
 
@@ -31,6 +36,11 @@ Make sure you have also completed the 3D printer induction, and ask one of the c
 
 ## My card should be linked and work on the 3D printer scanner but it's flashing red?
 Try resetting the scanner by plugging and unplugging it. If it's still not working, as a committee member
+___
+# Projects
+## I want to do a project in ICRS labs! What can I expect from them?
+If you want to do a project and want your own storage? Ask @Jacob about it! Other than that if you need any advice or feedback on electronics and software, each committee member has their own specialty that they can answer. Of course, you're welcome to use the components and machines we provide.
 
-##
+## Can I do a project with ICRS? 
+Historically, we've run small student-run projects but it has not been very successful due to having too many people but it being too advanced. Ask a committee member about it if you have an idea, especially @Martin who's in charge of projects this year.
 
