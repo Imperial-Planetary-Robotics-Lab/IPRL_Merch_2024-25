@@ -1,4 +1,4 @@
-24808171985374543
+24809915510108673
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99770,6 +99770,13 @@ Ring_Connector_5mm
 0
 0
 0
+ruler_footprints_2025
+SOP65P490X110-8N
+TSSOP8
+Integrated Circuit
+0
+8
+8
 ruler_footprints_2025
 Saturn_Ring_19mm
 
