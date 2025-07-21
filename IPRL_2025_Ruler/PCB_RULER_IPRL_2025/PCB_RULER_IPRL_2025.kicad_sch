@@ -5027,7 +5027,7 @@
 				)
 			)
 		)
-		(property "Value" "470u"
+		(property "Value" "470p"
 			(at 83.8263 134.62 90)
 			(effects
 				(font
