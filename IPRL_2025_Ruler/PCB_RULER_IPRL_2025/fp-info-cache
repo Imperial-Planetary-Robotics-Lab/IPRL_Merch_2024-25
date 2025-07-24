@@ -1,4 +1,4 @@
-46783111226705
+50289810555199
 ruler_footprints_2025
 API_Logo
 
@@ -22,6 +22,13 @@ BOBCAT_SURFACE
 0
 ruler_footprints_2025
 BOBCAT_Symbol
+
+
+0
+0
+0
+ruler_footprints_2025
+BOBCAT_WIREFRAME
 
 
 0
@@ -146,6 +153,13 @@ Integrated Circuit
 0
 8
 8
+ruler_footprints_2025
+STRAY_WIREFRAME
+
+
+0
+0
+0
 ruler_footprints_2025
 Saturn_Ring_19mm
 
