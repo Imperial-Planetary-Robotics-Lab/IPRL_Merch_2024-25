@@ -2006,6 +2006,52 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 57.785 139.7)
+		(end 109.22 193.04)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 34552969-c918-4f1c-993f-441d9bd51173)
+	)
+	(rectangle
+		(start 60.325 31.75)
+		(end 239.395 122.555)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid efc7a350-1cc3-4ec8-91c6-8adb32d6a8eb)
+	)
+	(text "LED"
+		(exclude_from_sim no)
+		(at 64.516 30.226 0)
+		(effects
+			(font
+				(face "Goldman")
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "02fe639c-8b38-4ca2-8a51-37105d1f48b7")
+	)
+	(text "NFC IC"
+		(exclude_from_sim no)
+		(at 64.262 137.922 0)
+		(effects
+			(font
+				(face "Goldman")
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "dfa881e4-7e0e-4e0f-a61b-cde70ce93f7a")
+	)
 	(junction
 		(at 234.95 77.47)
 		(diameter 0)
@@ -2073,7 +2119,7 @@
 		(uuid "6b5368b1-070c-4c81-aea3-c8770f62a6af")
 	)
 	(junction
-		(at 66.04 156.21)
+		(at 66.04 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f48b973-fb15-488e-9aad-30f9c1338d1d")
@@ -2103,7 +2149,7 @@
 		(uuid "7d821cb7-59c1-4360-8fee-f8f74c82c62e")
 	)
 	(junction
-		(at 69.85 138.43)
+		(at 69.85 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "859641d4-c4c7-47e4-9c07-f27ec25f2445")
@@ -2139,7 +2185,7 @@
 		(uuid "b47eb50f-75ca-45f3-92a1-c5b7b2e2ab4f")
 	)
 	(junction
-		(at 100.33 138.43)
+		(at 100.33 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc8c4a27-5933-4880-a162-1d28fe2e7753")
@@ -2163,7 +2209,7 @@
 		(uuid "d87e370d-23f0-49c9-8fab-8f932fae54c3")
 	)
 	(junction
-		(at 100.33 156.21)
+		(at 100.33 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd19339f-7fee-4239-85c5-b8fbf7edab35")
@@ -2212,7 +2258,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 166.37) (xy 66.04 156.21)
+			(xy 66.04 179.07) (xy 66.04 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2252,7 +2298,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 156.21) (xy 100.33 156.21)
+			(xy 106.68 168.91) (xy 100.33 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2272,7 +2318,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 173.99) (xy 106.68 156.21)
+			(xy 106.68 186.69) (xy 106.68 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2282,7 +2328,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 156.21) (xy 66.04 156.21)
+			(xy 63.5 168.91) (xy 66.04 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2362,7 +2408,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 138.43) (xy 81.28 138.43)
+			(xy 69.85 151.13) (xy 81.28 151.13)
 		)
 		(stroke
 			(width 0)
@@ -2392,7 +2438,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 138.43) (xy 69.85 153.67)
+			(xy 69.85 151.13) (xy 69.85 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2402,7 +2448,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 156.21) (xy 69.85 156.21)
+			(xy 66.04 168.91) (xy 69.85 168.91)
 		)
 		(stroke
 			(width 0)
@@ -2502,7 +2548,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 129.54) (xy 69.85 138.43)
+			(xy 69.85 142.24) (xy 69.85 151.13)
 		)
 		(stroke
 			(width 0)
@@ -2592,7 +2638,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 173.99) (xy 87.63 173.99)
+			(xy 80.01 186.69) (xy 87.63 186.69)
 		)
 		(stroke
 			(width 0)
@@ -2602,7 +2648,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 129.54) (xy 100.33 138.43)
+			(xy 100.33 142.24) (xy 100.33 151.13)
 		)
 		(stroke
 			(width 0)
@@ -2742,7 +2788,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 138.43) (xy 100.33 153.67)
+			(xy 100.33 151.13) (xy 100.33 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2752,7 +2798,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 173.99) (xy 63.5 173.99)
+			(xy 74.93 186.69) (xy 63.5 186.69)
 		)
 		(stroke
 			(width 0)
@@ -2782,7 +2828,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 153.67) (xy 97.79 153.67)
+			(xy 100.33 166.37) (xy 97.79 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2882,7 +2928,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 156.21) (xy 100.33 166.37)
+			(xy 100.33 168.91) (xy 100.33 179.07)
 		)
 		(stroke
 			(width 0)
@@ -2902,7 +2948,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 173.99) (xy 63.5 156.21)
+			(xy 63.5 186.69) (xy 63.5 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3022,7 +3068,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 173.99) (xy 106.68 173.99)
+			(xy 92.71 186.69) (xy 106.68 186.69)
 		)
 		(stroke
 			(width 0)
@@ -3062,7 +3108,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 138.43) (xy 100.33 138.43)
+			(xy 86.36 151.13) (xy 100.33 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3072,7 +3118,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 166.37) (xy 66.04 166.37)
+			(xy 81.28 179.07) (xy 66.04 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3082,7 +3128,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 166.37) (xy 86.36 166.37)
+			(xy 100.33 179.07) (xy 86.36 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3102,7 +3148,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 129.54) (xy 100.33 129.54)
+			(xy 69.85 142.24) (xy 100.33 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3192,7 +3238,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 156.21) (xy 97.79 156.21)
+			(xy 100.33 168.91) (xy 97.79 168.91)
 		)
 		(stroke
 			(width 0)
@@ -3430,7 +3476,7 @@
 	)
 	(symbol
 		(lib_id "NT3H2211W0FTTJ:NT3H2211W0FTTJ")
-		(at 69.85 153.67 0)
+		(at 69.85 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3439,7 +3485,7 @@
 		(fields_autoplaced yes)
 		(uuid "080072d1-8aa5-4052-b5c6-a34a0fe9b6ac")
 		(property "Reference" "IC101"
-			(at 83.82 146.05 0)
+			(at 83.82 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3447,7 +3493,7 @@
 			)
 		)
 		(property "Value" "NT3H2211W0FTTJ"
-			(at 83.82 148.59 0)
+			(at 83.82 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3455,7 +3501,7 @@
 			)
 		)
 		(property "Footprint" "SOP65P490X110-8N"
-			(at 93.98 248.59 0)
+			(at 93.98 261.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3465,7 +3511,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/NT3H2111_2211.pdf"
-			(at 93.98 348.59 0)
+			(at 93.98 361.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3475,7 +3521,7 @@
 			)
 		)
 		(property "Description" "RFID Transponders NTAG I C <i>plus</i> 2K, NFC Forum Type 2 Tag with I C interface optimized for entry-level NFC applications"
-			(at 69.85 153.67 0)
+			(at 69.85 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3484,7 +3530,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 93.98 548.59 0)
+			(at 93.98 561.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3494,7 +3540,7 @@
 			)
 		)
 		(property "Mouser Part Number" "771-NT3H2211W0FTTJ"
-			(at 93.98 648.59 0)
+			(at 93.98 661.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3504,7 +3550,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NT3H2211W0FTTJ?qs=5ptrxOxu%252BRZJZX9GB78j7w%3D%3D"
-			(at 93.98 748.59 0)
+			(at 93.98 761.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3514,7 +3560,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "NXP"
-			(at 93.98 848.59 0)
+			(at 93.98 861.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3524,7 +3570,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "NT3H2211W0FTTJ"
-			(at 93.98 948.59 0)
+			(at 93.98 961.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3653,7 +3699,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "430"
+		(property "Value" "470"
 			(at 146.05 57.1499 0)
 			(effects
 				(font
@@ -3774,7 +3820,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 83.82 166.37 90)
+		(at 83.82 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3783,7 +3829,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b0b63e1-1caf-4306-a95a-4ce24c9d2035")
 		(property "Reference" "C102"
-			(at 83.8263 160.02 90)
+			(at 83.8263 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3791,7 +3837,7 @@
 			)
 		)
 		(property "Value" "220n"
-			(at 83.8263 162.56 90)
+			(at 83.8263 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3799,7 +3845,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 83.82 166.37 0)
+			(at 83.82 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3808,7 +3854,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 166.37 0)
+			(at 83.82 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3817,7 +3863,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 83.82 166.37 0)
+			(at 83.82 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,7 +4158,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 90.17 173.99 90)
+		(at 90.17 186.69 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4121,7 +4167,7 @@
 		(fields_autoplaced yes)
 		(uuid "60c677c4-e795-4cb9-acd0-75e2120c2ee0")
 		(property "Reference" "R101"
-			(at 90.17 168.91 90)
+			(at 90.17 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4129,7 +4175,7 @@
 			)
 		)
 		(property "Value" "47"
-			(at 90.17 171.45 90)
+			(at 90.17 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4137,7 +4183,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 90.17 173.99 0)
+			(at 90.17 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4146,7 +4192,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 173.99 0)
+			(at 90.17 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4155,7 +4201,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 90.17 173.99 0)
+			(at 90.17 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4675,7 +4721,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 77.47 173.99 0)
+		(at 77.47 186.69 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4684,7 +4730,7 @@
 		(dnp no)
 		(uuid "ae649717-f87c-4ecd-aaa3-bf526797ff5f")
 		(property "Reference" "D101"
-			(at 77.5335 167.64 0)
+			(at 77.5335 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4692,7 +4738,7 @@
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 77.5335 170.18 0)
+			(at 77.5335 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4700,7 +4746,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
-			(at 77.47 173.99 90)
+			(at 77.47 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4709,7 +4755,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 173.99 90)
+			(at 77.47 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4718,7 +4764,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
-			(at 77.47 173.99 0)
+			(at 77.47 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5261,7 +5307,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 83.82 138.43 90)
+		(at 83.82 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5270,7 +5316,7 @@
 		(fields_autoplaced yes)
 		(uuid "f76777a0-9696-46a0-ab71-4dcc53ce56f3")
 		(property "Reference" "C101"
-			(at 83.8263 132.08 90)
+			(at 83.8263 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5278,7 +5324,7 @@
 			)
 		)
 		(property "Value" "470p"
-			(at 83.8263 134.62 90)
+			(at 83.8263 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5286,7 +5332,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 83.82 138.43 0)
+			(at 83.82 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5295,7 +5341,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 138.43 0)
+			(at 83.82 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5304,7 +5350,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 83.82 138.43 0)
+			(at 83.82 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
