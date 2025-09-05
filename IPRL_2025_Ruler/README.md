@@ -54,8 +54,8 @@ For the rest of the components on the ruler, here's the bill of materials, that 
 For the assembly and setup, here's the step-by-step instruction
 
 1. Put solder paste using the stencil, make sure it's cleaned with IPA to avoid putting the paste somewhere else!
-2. Put components on top, ensuring correct polarity for the LEDs (there's usually a dot or a marker to show that)
-3. Make sure there's no short, you can start testing it by plugging in the usb C. The LED under the usb shows power input. If there's no problem, then the LED should start flicking through the symbols.
+2. Put components on top, ensuring correct polarity for the LEDs and ICs (there's usually a dot or a marker to show that)
+3. Make sure there's no short, you can start testing it by plugging in the USB-C. The LED under the usb shows power input. If there's no problem, then the LED should start flicking through the symbols.
 4. For the NFC, it's a little bit more complicated. First, one person needs to install the NXP tagwriter app.
 5. Select Erase tags -> Erase & format as NDEF -> input 2000 bytes -> scan with phone. If you don't know where the NFC on the phone is, the LED on the NFC IC will light up if you're at the right place.
-6. Now you should be able to program it with the NFC tools to your hearts content.
+6. Now you should be able to program it with the NFC tools to your heart's content.
