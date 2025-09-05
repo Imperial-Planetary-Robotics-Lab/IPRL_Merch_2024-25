@@ -1,0 +1,82 @@
+(footprint "Copper_Decal2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "G***"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "a6c2031b-c5f4-404d-b4c0-fe96ea6ca712")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Value" "LOGO"
+		(at 0.75 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2ee40b0d-b60a-4e47-b796-3b8ebc0f33f3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a63b19a6-a375-48d6-960d-b28fabfb70f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61d0f6f9-b657-422e-8b1a-21b2f96d1e00")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(pad "1" smd custom
+		(at -4.205319 -1.486169)
+		(size 5.910638 2.43191)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 2.723843 -1.197876) (xy 4.094037 -1.148078) (xy 5.210145 -1.073242) (xy 5.956341 -0.980048)
+					(xy 6.146771 -0.931638) (xy 6.577695 -0.662497) (xy 7.259246 -0.118968) (xy 8.097728 0.610783)
+					(xy 8.999447 1.438588) (xy 9.870708 2.276279) (xy 10.617817 3.035688) (xy 11.147079 3.628649) (xy 11.3648 3.966994)
+					(xy 11.365957 3.979671) (xy 11.11812 4.080577) (xy 10.46381 4.154648) (xy 9.536831 4.187738) (xy 9.392368 4.188296)
+					(xy 8.359071 4.174397) (xy 7.692731 4.09375) (xy 7.219946 3.887928) (xy 6.767313 3.498505) (xy 6.487581 3.209555)
+					(xy 5.642681 2.419447) (xy 4.779217 1.863971) (xy 3.778069 1.50535) (xy 2.520117 1.30581) (xy 0.886241 1.227576)
+					(xy 0.219681 1.22189) (xy -2.955319 1.215955) (xy -2.955319 -0.000002) (xy -2.955319 -1.215959)
+					(xy 1.215388 -1.215959)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "5509cadf-cd5a-4fb9-af27-922198e19dea")
+	)
+	(embedded_fonts no)
+)

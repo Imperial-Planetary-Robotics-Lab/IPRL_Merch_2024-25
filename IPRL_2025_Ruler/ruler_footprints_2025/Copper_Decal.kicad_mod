@@ -1,0 +1,85 @@
+(footprint "Copper_Decal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "G***"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "0e10353d-3770-4985-83b2-ffc4f3367fea")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Value" "LOGO"
+		(at 0.75 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cf9b1a97-d2e2-4ce5-a2d3-f2a31ed52831")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "723552db-10a0-41d2-9cff-91e64ff965d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cefa6bea-40b7-49d6-9b25-c8fedd94b8e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(pad "1" smd custom
+		(at -5.653539 0.937636)
+		(size 15.984404 2.494618)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 17.860607 -3.101489) (xy 18.717687 -3.044838) (xy 19.218483 -2.962577) (xy 19.299283 -2.909194)
+					(xy 19.106793 -2.582444) (xy 18.60186 -2.015351) (xy 17.893286 -1.309753) (xy 17.089874 -0.567489)
+					(xy 16.300428 0.109601) (xy 15.63375 0.619679) (xy 15.327063 0.808772) (xy 15.054996 0.918367)
+					(xy 14.678007 1.008412) (xy 14.145107 1.080759) (xy 13.405305 1.137256) (xy 12.40761 1.179751)
+					(xy 11.101031 1.210096) (xy 9.434578 1.230138) (xy 7.35726 1.241727) (xy 4.818087 1.246713) (xy 3.235042 1.24731)
+					(xy -7.992206 1.24731) (xy -7.992206 0.018278) (xy -7.992206 -1.210755) (xy 1.6679 -1.216753) (xy 4.238997 -1.220414)
+					(xy 6.327743 -1.229693) (xy 7.992202 -1.247309) (xy 9.290441 -1.275981) (xy 10.280526 -1.318427)
+					(xy 11.020522 -1.377368) (xy 11.568496 -1.455522) (xy 11.982513 -1.555608) (xy 12.32064 -1.680344)
+					(xy 12.408857 -1.719706) (xy 13.171195 -2.133398) (xy 13.753633 -2.558867) (xy 13.86056 -2.669622)
+					(xy 14.152191 -2.892587) (xy 14.65588 -3.031138) (xy 15.479967 -3.102169) (xy 16.732793 -3.122575)
+					(xy 16.765348 -3.122582)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "bba5de0a-fad8-4f95-9ad6-dabd0f5afa5c")
+	)
+	(embedded_fonts no)
+)
