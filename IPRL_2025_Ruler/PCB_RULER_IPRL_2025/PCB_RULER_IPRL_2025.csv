@@ -1,0 +1,12 @@
+Reference,Qty,Value,Datasheet
+C101,1,470p 0402 Capacitor,~
+C102,1,220n 0402 Capacitor,~
+C103,1,1u 0402 Capacitor,~
+D101-D112,12,0402 SMD LED,~
+IC101,1,NT3H2211W0FTTJ,http://www.nxp.com/docs/en/data-sheet/NT3H2111_2211.pdf
+J101,1,USB_C_Receptacle_PowerOnly_6P,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+R102,1,47k 0402 Resistor,~
+"R101, R103",1,470  0402 Resistor,~
+"R104,R105",2,1k  0402 Resistor,~
+U101,1,NE555D Clock,http://www.ti.com/lit/ds/symlink/ne555.pdf
+U102,1,4017 Decade Counter,http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf
