@@ -6,3 +6,8 @@ IPRL Rulers:\
 
 ![image](IPRL_2024_Ruler/front.PNG)
 ![image](IPRL_2024_Ruler/back.PNG)
+
+[2025 Edition]()
+
+![image](IPRL_2025_Ruler/IPRL Ruler Back.png)
+![image](IPRL_2025_Ruler/IPRL Ruler Front.png)
